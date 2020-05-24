@@ -5,6 +5,8 @@
 *  Assignments are done in ```Python```.
 *  Jupyter notebooks only.
 *  Grades:
+
+
 |Assignment|Grade|
 |-----------|:------:|
 | A1 | 9.8|
