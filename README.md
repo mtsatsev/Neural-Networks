@@ -6,7 +6,7 @@
 *  Jupyter notebooks only.
 *  Grades:
 |Assignment|Grade|
-|-----------|------|
+|-----------|:------:|
 | A1 | 9.8|
 | A2 | 10 |
 | A3 | 8.05|
